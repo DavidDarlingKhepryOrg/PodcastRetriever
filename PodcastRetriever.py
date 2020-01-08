@@ -55,7 +55,7 @@ import xml.etree.ElementTree as elementTree
 
 PVERSION = 1.3  # 2018.10.13
 
-def_days_in_the_past = 120
+def_days_in_the_past = 30
 
 
 class PodcastRetriever:
